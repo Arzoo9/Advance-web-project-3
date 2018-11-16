@@ -1,0 +1,3 @@
+# Module whiteboard
+# RPC service class, partial path of RPC policy file
+jadrn026.client.WhiteboardService, A5DBF0770C71F62152C2A9DC0AB1EFFA.gwt.rpc
